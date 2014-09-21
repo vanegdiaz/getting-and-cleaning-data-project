@@ -6,8 +6,8 @@ The data in the "Human Activity Recognition Using Smartphones Dataset Version 1.
 Steps to reproduce this project
 =================================
 1.	Download the data source (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)  and put into a folder on your local drive. 
-2.	Put run_analysis.R in the same folder of your working directory. Then set it as your working directory using setwd() function in RStudio.
-3.	Run source("run_analysis.R"), and it will generate a new file tidy_data.txt in your working directory.
+2.	Put run_analysis.R in the same folder of your working directory.
+3.	Run: source("run_analysis.R"), and it will generate a new file tidy_data.txt in your working directory.
 
 
 A brief description of the script:
